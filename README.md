@@ -1,0 +1,1 @@
+# QrCOde-generrator
